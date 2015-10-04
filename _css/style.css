@@ -1,7 +1,7 @@
 /* CSS Document */
 
-@import url("reset.css");
-@import url("header.css");
+@import url("http://itusavtek.github.io/savtek/_css/reset.css");
+@import url("http://itusavtek.github.io/savtek/_css/header.css");
 @import url("content.css");
 @import url("class.css");
 @import url("footer.css");
