@@ -1,10 +1,10 @@
 /* CSS Document */
 
-@import url("http://itusavtek.github.io/savtek/_css/reset.css");
-@import url("http://itusavtek.github.io/savtek/_css/header.css");
-@import url("content.css");
-@import url("class.css");
-@import url("footer.css");
+@import url("https://github.com/itusavtek/savtek/blob/gh-pages/_css/reset.css");
+@import url("https://github.com/itusavtek/savtek/blob/gh-pages/_css/header.css");
+@import url("https://github.com/itusavtek/savtek/blob/gh-pages/_css/content.css");
+@import url("https://github.com/itusavtek/savtek/blob/gh-pages/_css/class.css");
+@import url("https://github.com/itusavtek/savtek/blob/gh-pages/_css/footer.css");
 body {
 	background-repeat: no-repeat;
 	background-position: center top;
